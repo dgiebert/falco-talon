@@ -2,6 +2,7 @@
 config.yaml
 **/config.yaml
 falco-talon
+!charts/falco-talon
 dist/
 Memory
 .idea/**
